@@ -1,4 +1,4 @@
-# Recepy scraper
+# Recipe Webscraper
 
 Scrapes pages from https://www.skinnytaste.com/ and stores them as csv 
 
